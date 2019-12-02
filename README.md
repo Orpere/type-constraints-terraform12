@@ -1,8 +1,6 @@
-# type-constraints-terraform12
-This repo shows how to use variable map type on terraform 12 type constraints
-# This repo shows how to use variable map type on terraform 11 type constraints
+# This repo shows how to use variable map type on terraform 12 type constraints
 
-this repo is based on [documentation](https://www.terraform.io/docs/configuration/types.html)
+this repo is based on [blog post](https://www.hashicorp.com/blog/terraform-0-12-rich-value-types/)
 
 - [x] Install [tfswitch](https://warrensbox.github.io/terraform-switcher/) and chose terraform 11
 - [x] Install [git](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
