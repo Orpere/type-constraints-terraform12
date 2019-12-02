@@ -12,6 +12,7 @@ this repo is based on [blog post](https://www.hashicorp.com/blog/terraform-0-12-
   
 ```bash
     git clone git@github.com:orlando-pereira/type-constraints-terraform12.git
+```
 
 - Change into the directory :
   
