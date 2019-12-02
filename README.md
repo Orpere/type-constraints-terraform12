@@ -11,13 +11,13 @@ this repo is based on [blog post](https://www.hashicorp.com/blog/terraform-0-12-
 - In a directory of your choice, clone the github repository :
   
 ```bash
-    git clone git@github.com:orlando-pereira/type-constraints-terraform12.git
+git clone git@github.com:orlando-pereira/type-constraints-terraform12.git
 ```
 
 - Change into the directory :
   
 ```bash
-    cd type-constraints-terraform12
+cd type-constraints-terraform12
 ```
 
 - create a self certificates to test
